@@ -150,6 +150,6 @@ To run the project:
 3. Open the Jupyter Notebook and execute the cells to train and evaluate the model.
 
 ```bash
-git clone https://github.com/yasirsaleem502/Predict-Customer-Churn-Analysis-using-Logistic-Regression-Random-Forest-XG-boost.git
-cd customer-churn-analysis
+git clone https://github.com/yasirsaleem502/Customer-Segmentation-with-K-Means-Clustering.git
+cd customer-segmentation
 pip install -r requirements.txt
