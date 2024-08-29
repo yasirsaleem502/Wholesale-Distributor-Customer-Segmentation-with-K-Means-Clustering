@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-K-Means-Clustering
+# Customer Segmentation with K-Means Clustering
 
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter%20Notebook-orange)
