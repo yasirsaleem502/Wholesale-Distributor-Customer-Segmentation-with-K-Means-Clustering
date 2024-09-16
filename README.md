@@ -39,6 +39,8 @@ The main objectives of this project are:
 
 ## Dataset Description
 
+The dataset contains information on annual spending by clients in six distinct product categories. These categories reflect the customer's purchasing behaviour and provide a basis for segmentation
+
 The data set refers to clients of a wholesale distributor. It includes the annual spending in monetary units (m.u.) on diverse product categories.
 
 The dataset for this project can be found on the UCI Machine Learning Repository. For the purposes of this project, the features 'Channel' and 'Region' will be excluded in the analysis — with focus instead on the six product categories recorded for customers.
